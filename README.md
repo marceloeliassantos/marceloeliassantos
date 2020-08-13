@@ -24,5 +24,5 @@ BlueHat Tech Blog é um blog voltado para assuntos técnicos de redes, seguranç
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/bluehat_it) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcelo-elias/)
-[![BlueHat Tech Blog](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/channel/UChm5kWo749e1TzaVkBExJDw?sub_confirmation=1)
+[![YouTube Channel]()](https://www.youtube.com/channel/UChm5kWo749e1TzaVkBExJDw?sub_confirmation=1)
 

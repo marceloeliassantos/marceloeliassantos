@@ -1,4 +1,3 @@
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/user/marcelorde391/)](https://www.youtube.com/user/marcelorde391/)
 
 <!--
 ### Hi there 👋

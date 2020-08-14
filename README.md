@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # BlueHat Tech Blog [<img src="https://bluehat.site/templates/it_365news/custom/images/logo.png" />](https://bluehat.site/)
-
+:brazil:
 BlueHat Tech Blog é um blog voltado para assuntos técnicos de redes, segurança, Linux e programação criado por Marcelo Dos Santos. Aqui pretendo divulgar o meu conhecimento e fazer dessa plataforma uma ferramenta de backup de tudo o que tenho aprendido.
+
+:us:
+BlueHat Tech Blog is a blog focused on technical issues of networks, security, Linux and programming created by Marcelo Dos Santos. Here I intend to spread my knowledge and make this platform a backup tool for everything I have learned.
 
 <summary>🤝 <b>Para saber mais o que estou fazendo<b></summary>
 

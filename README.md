@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# BlueHat Tech Blog :
+# BlueHat Tech Blog [<img src="https://bluehat.site/templates/it_365news/custom/images/logo.png" />](https://bluehat.site/)
 
 BlueHat Tech Blog é um blog voltado para assuntos técnicos de redes, segurança, Linux e programação criado por Marcelo Dos Santos. Aqui pretendo divulgar o meu conhecimento e fazer dessa plataforma uma ferramenta de backup de tudo o que tenho aprendido.
 
